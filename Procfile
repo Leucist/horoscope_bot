@@ -1,0 +1,1 @@
+worker: python horoscope.py -p $PORT
